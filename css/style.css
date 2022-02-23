@@ -358,7 +358,7 @@ ol {
 }
 
 .site-logo {
-  font-size: 24px;
+  font-size: 26px;
   padding-top: 20px;
 }
 
@@ -393,6 +393,16 @@ ol {
 --------------------------*/
 .intro-section {
   padding: 110px 0;
+}
+
+/*------------------------
+    Intro Section
+--------------------------*/
+.intro-section-bg {
+  padding: 110px 0;
+  background-image: linear-gradient(rgba(255,255,255,0.7), rgba(255,255,255,0.7)), url(../img/zlati-evtimova-header.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 /*------------------------
@@ -579,6 +589,12 @@ ol {
   color: #979797;
 }
 
+.list {
+  list-style: inside;
+  font-size: 18px;
+
+}
+
 /*------------------------
     Blog Page
 --------------------------*/
@@ -753,6 +769,9 @@ ol {
   }
   .section-title {
     font-size: 45px;
+  }
+  .section-title-sm {
+    font-size: 40px;
   }
   .portfolio-filter {
     text-align: center;
