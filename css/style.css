@@ -73,6 +73,14 @@ ol {
   padding: 100px 0;
 }
 
+.pt20 {
+  padding-top: 20px;
+}
+
+.ptb20 {
+  padding-bottom: 20px;
+}
+
 .pt30 {
   padding-top: 30px;
 }
