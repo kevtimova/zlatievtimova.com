@@ -25,12 +25,18 @@ h6 {
   margin: 0;
   font-weight: 600;
   font-family: 'Jost', sans-serif;
+  letter-spacing: 3px;
 }
 
 p {
   font-size: 18px;
   color: #000000;
   line-height: 1.8;
+  letter-spacing: 3px;
+}
+
+li {
+  letter-spacing: 3px;
 }
 
 img {
